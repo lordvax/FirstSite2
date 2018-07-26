@@ -1,0 +1,52 @@
+C - N
+Concise Networks
+
+THEME-
+Cool blue
+Grey
+Light grey
+White
+Black
+
+-----------------------------------------------------------
+HOMEPAGE
+
+Header
+background image - blurred
+
+Top - moving bar of images (CN Logo pinned above)
+below top (compressed)- navigation bar
+
+middle - company intro (followed by customer testo)
+
+Lower - Customer testo 
+
+Bottom - Black bar with expanded hyperlink navigation bar
+
+------------------------------------------------------------
+CONTACT US
+
+Header
+Title - Get in Contact
+
+background image - blurred
+below top (compressed)- navigation bar
+
+Middle - Contact form
+
+Bottom - Black bar with expanded hyperlink navigation bar
+
+FAQ?
+
+------------------------------------------------------------
+ABOUT US
+
+Header
+Title - Who we are and what we do.
+
+background image - blurred
+below top (compressed)- navigation bar
+
+Middle - Text/company explanation and etc + few images
+
+Bottom - Black bar with expanded hyperlink navigation bar
